@@ -4,7 +4,6 @@ I'm a Computer Science student at UMKC with a background in data analysis,
 Python development, and applied AI. My goal is to build impactful AI/ML 
 systems; particularly in technology, healthcare, and finance.
 
----
 
 ## What I'm Working On
 
@@ -12,7 +11,6 @@ systems; particularly in technology, healthcare, and finance.
 - Strengthening my skills in machine learning and data engineering
 - Pursuing internship opportunities in data analysis, software engineering, and applied AI
 
----
 
 ## Featured Project
 
@@ -23,7 +21,6 @@ human-readable answers through a Flask web interface.
 
 **Tech:** Python • OpenAI API • Flask • MySQL • Prompt Engineering • NLP
 
----
 
 ## Tech Stack
 
@@ -36,7 +33,6 @@ Flask • MySQL • Git • OpenAI API • Amazon Web Services
 **Concepts**
 Prompt Engineering • NLP • LLM • Data Analysis • Statistical Analysis • OOP
 
----
 
 ## Experience
 
@@ -45,7 +41,6 @@ Prompt Engineering • NLP • LLM • Data Analysis • Statistical Analysis �
 - Improved NLP sentiment analysis pipeline accuracy
 - Built IVR systems using Amazon Text to Speech and Broadnet
 
----
 
 ## Education
 
@@ -54,7 +49,6 @@ B.S. Computer Science | 2023 – Expected 2027
 
 *Pursuing M.S. in Artificial Intelligence post-graduation*
 
----
 
 ## Connect
 
