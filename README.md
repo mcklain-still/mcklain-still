@@ -1,6 +1,6 @@
 # Hi, I'm McKlain 👋
 
-I'm a Computer Science student at UMKC with a background in data analysis, 
+I'm a Computer Science student with a background in data analysis, 
 Python development, and applied AI. My goal is to build impactful AI/ML 
 systems; particularly in technology, healthcare, and finance.
 
