@@ -25,12 +25,6 @@ NLP · LLM · Prompt Engineering · ML Systems · Data Analysis · Statistical A
 - Improved NLP sentiment analysis pipeline accuracy
 - Built IVR systems using Amazon Text to Speech and Broadnet
 
-## Education
-
-**University of Missouri Kansas City**
-B.S. Computer Science | 2023 – Expected May 2027
-*Pursuing M.S. in Artificial Intelligence post-graduation*
-
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mcklain--still-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mcklain-still) [![Email](https://img.shields.io/badge/Email-chadmstill%40gmail.com-D14836?style=flat&logo=gmail)](mailto:chadmstill@gmail.com) [![Location](https://img.shields.io/badge/Location-Kansas%20City%2C%20MO-4A90D9?style=flat&logo=googlemaps)]()
+[![Email](https://img.shields.io/badge/Email-chadmstill%40gmail.com-D14836?style=flat&logo=gmail)](mailto:chadmstill@gmail.com) [![Location](https://img.shields.io/badge/Location-Kansas%20City%2C%20MO-4A90D9?style=flat&logo=googlemaps)]()
